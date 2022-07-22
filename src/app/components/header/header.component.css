@@ -11,3 +11,30 @@ img {
     margin-right: auto;
     width: 100%;
 }
+
+a, h1 {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+a:hover {
+    color: deepskyblue;
+}
+
+.container-header {
+    background-image: url('/assets/images/headerWallpaper1.png');
+    background-position: top 100px;
+    text-align: center;
+}
+
+#img-title {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+#img-content {
+    padding-top: 10%;
+    padding-bottom: 13%;
+}
+

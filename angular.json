@@ -16,7 +16,6 @@
             "outputPath": "docs",
             "index": "src/index.html",
             "main": "src/main.ts",
-            "baseHref": "https://noobkozlegeny.github.io/playlist-recommender-web/",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
             "assets": [

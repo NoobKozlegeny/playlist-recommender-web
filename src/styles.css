@@ -2,14 +2,13 @@
 
 /* Colors */
 .primary {
+    background-color: rgb(19, 19, 19);
+}
+
+.secondary-1 {
     background-color: deepskyblue;
 }
 
-.secondary {
+.secondary-2 {
     background-color: deeppink;
-}
-
-* {
-    color: black;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
