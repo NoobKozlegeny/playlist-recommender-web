@@ -1,9 +1,12 @@
-/* .navbar-nav.navbar-center {
+.navbar::after {
+    content: '';
+    height: 5%;
     position: absolute;
-    top: 20%;
-    left: 50%;
-    transform: translatex(-50%);
-} */
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(120deg, deeppink 50%, deepskyblue 50%);
+}
 
 img {
     display: block;

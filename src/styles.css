@@ -12,3 +12,7 @@
 .secondary-2 {
     background-color: deeppink;
 }
+
+.secondary-double {
+    background: linear-gradient(120deg, deeppink 50%, deepskyblue 50%);
+}
